@@ -4,7 +4,8 @@ The goal of this project is to build out a ToDo app with frontends and backend A
 
 # Frontends:
 
-* [React with Redux/TypeScript/Hooks](https://github.com/wley3337/todo-react-redux)
+* [React with Redux/Thunk/TypeScript/Hooks](https://github.com/wley3337/todo-react-redux)
+* [React with Redux/Sagas/TypeScript/Hooks](https://github.com/wley3337/todo-react-redux-saga)
 
 
 # Backends: 
