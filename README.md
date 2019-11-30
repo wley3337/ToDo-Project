@@ -12,3 +12,4 @@ The goal of this project is to build out a ToDo app with frontends and backend A
 
 * [Rails API PostgreSQL](https://github.com/wley3337/rails-todo-api)
 * [Express API PostgreSQL](https://github.com/wley3337/todo-express-api) <--- still need to add db migration and creation
+* [Python (Flask) API PostgreSQL](https://github.com/wley3337/todo-python-api)
